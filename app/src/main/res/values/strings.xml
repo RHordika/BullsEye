@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Slider</string>
+    <string name="zero">0</string>
+    <string name="hundred">100</string>
+    <string name="puntaje2">Puntaje Máximo:</string>
+    <string name="ronda">Ronda:</string>
+    <string name="puntaje">Puntaje:</string>
+</resources>
